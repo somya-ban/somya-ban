@@ -23,7 +23,7 @@
 - Slowly crafting a career that blends science, code, and creativity
 
 ---
-## 🧰 Tech I Use 
+## 🧰 Tech I Use :
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -49,8 +49,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
-## 🐍 GitHub Snake Vibes
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somya-ban/somya-ban/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somya-ban/somya-ban/output/github-snake.svg" />
@@ -58,5 +56,4 @@
 </picture>
 
 ---
-
 🌐 Personal Portfolio — Coming Soon!
