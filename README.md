@@ -20,7 +20,6 @@
 - Learning **bioinformatics** the real way — with real biological data  
 - Diving into **sequence classification**, **motif discovery**, and **gene prediction**  
 - Prepping for **research internships** at places like **IISc Bangalore**  
-- Slowly crafting a career that blends science, code, and creativity
 
 ---
 ## 🧰 Tech I Use :
