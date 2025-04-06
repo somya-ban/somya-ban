@@ -48,12 +48,10 @@
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/somya-ban/somya-ban/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/somya-ban/somya-ban/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/somya-ban/somya-ban/output/github-snake.svg" />
 </picture>
-
 ---
 🌐 Personal Portfolio — Coming Soon!
