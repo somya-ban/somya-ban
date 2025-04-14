@@ -1,25 +1,19 @@
 <img src="Code  Create  Cure.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Hey, I’m Somya Bansal
+CS Undergrad | Computational Biology Enthusiast | Future Founder
 
-✨ A curious explorer at the intersection of **CS, Biology, and Creativity**.
-
----
-
-## 👩‍🔬 Who Am I?
-
-- 💻 CS undergrad blending **code, science, and design**  
-- 🔬 Obsessed with **computational biology**, **drug delivery**, and **biotech innovation**
-- 💡 On a mission to build tools that solve real problems — beautifully  
-- 🎨 When I’m not diving into datasets, I’m sketching, styling colors, or dreaming up future startup ideas!
+Exploring how computational tools can accelerate discovery in **Life Sciences**, **Materials Science**, and **Sustainable Technologies**. Passionate about creating effective, well-designed solutions.
 
 ---
 
-## 🌱 What I'm Doing Right Now
+## Focus & Interests💡
 
-- Learning **bioinformatics** the real way — with real biological data  
-- Diving into **sequence classification**, **motif discovery**, and **gene prediction**  
-- Prepping for **research internships** at places like **IISc Bangalore**  
+- Developing **computational biology tools** that integrate analysis and interpretation (e.g., sequence annotation - see Pinned Repositories for projects like [GenoView](https://github.com/somya-ban/genoview).
+- Keenly interested in **Drug Discovery, Tissue Engineering, and Advanced Materials**.
+- Actively seeking **research internship opportunities** (Summer/Fall 2025) in computational biology, biotech, or related fields where I can contribute to meaningful projects (strong interest in IISc Bangalore and similar institutions).
+- Long-term ambition: Founding ventures that bring scientific advancements to life.
+- Lifelong learner constantly exploring new algorithms, biological pathways, and creative coding techniques.
 
 ---
 ## 🧰 Tech I Use :
@@ -55,4 +49,8 @@
 
 ---
 
-🌐 Personal Portfolio — Coming Soon!
+## 📫 Let's Connect
+Open to discussing computational science, biotech innovation, potential collaborations, or internship opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/somya-bansal-s17/)])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somya-ban)
