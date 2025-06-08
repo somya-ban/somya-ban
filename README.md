@@ -10,7 +10,7 @@ Exploring how computational tools can accelerate discovery in **Life Sciences**,
 ## Focus & Interests💡
 
 - Developing **computational biology tools** that integrate analysis and interpretation (e.g., sequence annotation - see Pinned Repositories for projects like [GenoView](https://github.com/somya-ban/genoview).
-- Keenly interested in **Drug Discovery, Tissue Engineering, and Advanced Materials**.
+- Keenly interested in AI-Driven Diagnostics (applying NLP/LLMs to clinical reports, wearable data, or population-scale genomics).
 - Actively seeking **research internship opportunities** (Summer/Fall 2025) in computational biology, biotech, or related fields where I can contribute to meaningful projects (strong interest in IISc Bangalore and similar institutions).
 - Long-term ambition: Founding ventures that bring scientific advancements to life.
 - Lifelong learner constantly exploring new algorithms, biological pathways, and creative coding techniques.
