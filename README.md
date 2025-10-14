@@ -1,19 +1,6 @@
 <img src="Code  Create  Cure.png" alt="GitHub Banner" width="100%" />
 
 # 👋 Hey, I’m Somya Bansal
-CS Undergrad | Computational Biology Enthusiast | Future Founder
-
-Exploring how computational tools can accelerate discovery in **Life Sciences**, **Materials Science**, and **Sustainable Technologies**. Passionate about creating effective, well-designed solutions.
-
----
-
-## Focus & Interests💡
-
-- Developing **computational biology tools** that integrate analysis and interpretation (e.g., sequence annotation - see Pinned Repositories for projects like [GenoView](https://github.com/somya-ban/genoview).
-- Keenly interested in AI-Driven Diagnostics (applying NLP/LLMs to clinical reports, wearable data, or population-scale genomics).
-- Actively seeking **research internship opportunities** (Summer/Fall 2025) in computational biology, biotech, or related fields where I can contribute to meaningful projects (strong interest in IISc Bangalore and similar institutions).
-- Long-term ambition: Founding ventures that bring scientific advancements to life.
-- Lifelong learner constantly exploring new algorithms, biological pathways, and creative coding techniques.
 
 ---
 ## 🧰 Tech I Use :
