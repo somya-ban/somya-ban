@@ -1,5 +1,3 @@
-<img src="Code  Create  Cure.png" alt="GitHub Banner" width="100%" />
-
 # 👋 Hey, I’m Somya Bansal
 
 ---
